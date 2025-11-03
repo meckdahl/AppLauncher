@@ -1,0 +1,7 @@
+[project]
+name = "claude-app-launcher"
+version = "1.0.0"
+description = "GUI launcher for running Claude-generated Python applications"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
