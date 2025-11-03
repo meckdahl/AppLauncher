@@ -1,9 +1,9 @@
 # AppLauncher
 AI App Launcher - input folder and then launch Python Apps created by AI.  (Autodetects app folders)
 
-================================
+
     HOW TO START - SUPER SIMPLE!
-================================
+======================
 
 Welcome! This is super easy. Just follow these 2 steps:
 
@@ -102,7 +102,7 @@ REMEMBER:
 That's all you need to know! Double-click and go! 🚀
 
 
-=================================
+
 Made for people who just want things to work simply!
-=================================
+==============
 
